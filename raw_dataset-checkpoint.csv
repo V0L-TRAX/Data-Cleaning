@@ -1,0 +1,421 @@
+Employee_ID,Full_Name,Department,Age,Gender,City,Joining_Date,Salary,Experience_Years
+EMP001,Sneha Sharma  ,Sales,36.0, Male , Chennai ,2016-11-24,"$110,000",11.0
+EMP002,Rohan Sharma, Marketing ,36.0,F,pune,2015.09.07,"$63,000",11.0
+EMP003,Rekha Reddy,marketing,49.0,Female,MUMBAI,25-04-2017,"$48,000",27.0
+EMP004,Suresh Mehta  ,Human Resources,,m,delhi,2022.09.04,"$45,000",34.0
+EMP005,Rajesh Das  , Finance ,34.0,male,delhi,2018/05/03,"$145,000",12.0
+EMP006,  Suresh Reddy   ,Human Resources,32.0,Female, Bengaluru ,2018-11-09,"$112,000",5.0
+EMP007,  Arjun Pandey,marketing,51.0,female,MUMBAI,22-04-2023,"$142,000",29.0
+EMP008,Sanjay Verma  ,HR,39.0,male,mumbai,2024/12/11,"$118,000",14.0
+EMP009,  Ritu Das   ,Marketing,38.0, Male , Mumbai ,2023.09.09,"$149,000",
+EMP010,  Ritu Joshi,Marketing,54.0, Female ,,2015/02/05,"$136,000",27.0
+EMP011,Shweta Kulkarni,HR,46.0,f, Bangalore ,2023-05-18,"$122,000",19.0
+EMP012,Sneha Agarwal  ,Sales ,-25.0,,bangalore,01-08-2017,"$99,000",7.0
+EMP013,Varun Mehta  ,Finance,60.0,M, Delhi,2020-03-18,"$111,000",35.0
+EMP014,Preeti Sharma,Human Resources,41.0,M,delhi,2018-10-03,"$128,000",16.0
+EMP015,  Vikram Pandey,Marketing,52.0,F,Mumbai,2019.09.28,"$62,000",26.0
+EMP016,,HR,45.0, Female ,hyderabad,2022/02/08,"$43,000",21.0
+EMP017,  Priya Iyer, Finance ,36.0,Male, Delhi ,2015-04-03,"$145,000",12.0
+EMP018,  Vikram Mishra,sales,53.0,M, Hyderabad ,2017.12.19,"$66,000",28.0
+EMP019,Alok Kumar,ENGINEERING,49.0,Female,bangalore,2021-08-28,"$121,000",22.0
+EMP020,  Rahul Verma   ,Sales ,28.0,M,mumbai,2018/09/15,"$89,000",5.0
+EMP021,  Sunita Saxena, Engineering ,50.0,F,,2015-11-18,"$46,000",27.0
+EMP022,  Arjun Malhotra   ,Hr,35.0,female,delhi,2017.07.01,"$68,000",10.0
+EMP023,  Rajesh Malhotra   ,Marketing,34.0,,mumbai,2015-10-24,"$130,000",10.0
+EMP024,  Ananya Verma   ,Finance,55.0, Male ,delhi,2023/02/28,"$43,000",29.0
+EMP025,  Vikram Agarwal,HR,29.0,f, Mumbai ,2024-10-02,"$88,000",2.0
+EMP026,Rekha Iyer  ,sales,35.0,Other,chennai,2020.04.09,"$51,000",8.0
+EMP027,Meera Saxena  , Engineering ,22.0, Female ,pune,2024/02/03,"$99,000",0.0
+EMP028,Amit Joshi,Sales,45.0,m,Mumbai,23-09-2022,"-$43,000",23.0
+EMP029,Payal Nair,Marketing,38.0,male,,09-03-2023,"$112,000",15.0
+EMP030,Swati Kumar  ,Finance,53.0,m,delhi,14-11-2016,"$40,000",31.0
+EMP031,Swati Singh  ,marketing,50.0,F,chennai,2021-09-01,"$44,000",23.0
+EMP032,Pooja Pandey,Human Resources,59.0,F, Delhi,02-03-2021,"$81,000",35.0
+EMP033,  Naveen Kumar,ENGINEERING,44.0,F,bangalore,2024/12/05,"$145,000",21.0
+EMP034,Deepika Malhotra,marketing,43.0,female,Chennai,2018-05-06,"$83,000",21.0
+EMP035,  Harish Rao, Human Resources ,44.0,m, Mumbai ,2018/01/22,"$86,000",20.0
+EMP036,Sunita Patel  ,Human Resources,54.0,female,Chennai,2023-06-01,"$147,000",
+EMP037,Deepika Iyer  ,engineering,28.0,f,bangalore,26-12-2020,"$90,000",2.0
+EMP038,  Varun Mehta   , Finance ,34.0,m,delhi,2021/01/17,"$81,000",9.0
+EMP039,Vikram Agarwal  ,FINANCE,42.0,Other,DELHI,2019.09.10,"$76,000",17.0
+EMP040,  Rajesh Pandey,,,Other,Bangalore,19-10-2017,"$86,000",22.0
+EMP041,Aarav Nair  , Marketing ,49.0,f,pune,2020.08.15,"$121,000",26.0
+EMP042,  Varun Deshmukh, Engineering ,40.0,F,Chennai,2024/06/03,"$121,000",16.0
+EMP043,  Sanjay Kumar,Engineering,24.0,M,Hyderabad,2024.02.15,"$148,000",0.0
+EMP044,  Akash Kumar   ,Hr,47.0,M, Delhi,2015.02.25,,24.0
+EMP045,Simran Saxena,finance,137.0,male, Bangalore ,22-08-2017,"$131,000",35.0
+EMP046,  Bhavna Chawla   ,finance,50.0, Male , Chennai ,2022/08/09,"$142,000",23.0
+EMP047,  Sunita Mishra   ,Sales,39.0, Female , Delhi ,09-04-2019,"$75,000",13.0
+EMP048,  Neha Singh,Sales,46.0, Male ,chennai,2018.02.14,"$77,000",20.0
+EMP049,Anjali Malhotra, Marketing ,48.0,female,Pune,2015.10.13,"$35,000",24.0
+EMP050,  Meera Bhatia   ,finance,56.0,f, Mumbai ,2022.04.09,"$97,000",
+EMP051,  Suresh Chopra   ,marketing,51.0, Male ,pune,2023-01-13,"$45,000",24.0
+EMP052,  Shweta Singh   ,marketing,25.0,m,Bangalore,15-04-2020,"$78,000",-3.0
+EMP053,Alok Reddy,Hr,23.0,F,delhi,2020-04-21,"$134,000",0.0
+EMP054,  Rohan Sharma, Marketing ,23.0,f, Delhi,2018-03-16,"$107,000",0.0
+EMP055,Anjali Bose  ,Human Resources,32.0,f,pune,2016-03-10,"$109,000",10.0
+EMP056,  Meera Iyer   ,HR,34.0,male,Pune,23-02-2018,"$143,000",
+EMP057,Kunal Mehta,Human Resources,56.0,female,Chennai,17-02-2020,"$36,000",31.0
+EMP058,  Preeti Mehta   ,Human Resources,51.0, Male ,bangalore,17-12-2017,"$113,000",25.0
+EMP059,  Harish Saxena   , Finance ,39.0,, Mumbai ,2016/05/15,"$131,000",14.0
+EMP060,  Akash Kulkarni   ,Sales ,23.0, Female ,bengaluru,07-08-2017,"$137,000",0.0
+EMP061,Swati Reddy  ,finance,,F,mumbai,2016.04.24,"$97,000",0.0
+EMP062,  Divya Bose   ,Hr,50.0,Male, Delhi ,2019/04/13,"$74,000",23.0
+EMP063,  Rekha Joshi   ,finance,55.0,Female,bangalore,2023.06.12,"$69,000",31.0
+EMP064,Manish Rao, Marketing ,42.0,male, Chennai ,2023/12/06,"$62,000",15.0
+EMP065,Harish Reddy  ,ENGINEERING,34.0,m, Mumbai ,2020-03-10,"$125,000",8.0
+EMP066,Amit Reddy,engineering,57.0,,chennai,2017.11.28,"$48,000",35.0
+EMP067,  Akash Nair   ,Hr,50.0,Female,Mumbai,2015.05.28,"$49,000",28.0
+EMP068,Ritu Deshmukh, Finance ,25.0, Male , Delhi,2024/05/03,"$50,000",
+EMP069,  Alok Kulkarni,Finance,46.0, Female ,,14-10-2019,"$107,000",20.0
+EMP070,Ananya Kulkarni, Marketing ,35.0,m,Chennai,2016/03/08,"$105,000",13.0
+EMP071,  Arjun Sharma   , Human Resources ,60.0, Female ,Bengaluru,10-04-2015,"$124,000",35.0
+EMP072,  Vikram Agarwal,sales,,Other,mumbai,2021/02/18,"$117,000",35.0
+EMP073,Sunita Singh,engineering,32.0,m,pune,2024-05-15,"$94,000",5.0
+EMP074,  Meera Bose   ,sales,54.0,F,Hyderabad,2022-02-20,,29.0
+EMP075,Aditya Kulkarni  ,Engineering,27.0,M,Chennai,01-10-2024,"$108,000",5.0
+EMP076,  Deepika Deshmukh   ,sales,33.0,f,,16-02-2022,"$87,000",9.0
+EMP077,Aditya Agarwal,marketing,,female,chennai,2022.05.22,"$139,000",
+EMP078,Rohan Saxena,Sales ,38.0,Female,DELHI,2021-09-27,"$119,000",12.0
+EMP079,, Marketing ,55.0,Female,pune,2022-11-15,"$61,000",31.0
+EMP080,Payal Singh  , Human Resources ,53.0,male,Delhi,2024/04/23,"$74,000",27.0
+EMP081,  Aarav Pandey   , Engineering ,,male, Bangalore ,2016/11/27,"$98,000",9.0
+EMP082,Rajesh Mishra  ,hr,52.0, Female , Mumbai ,2022.09.05,"$59,000",26.0
+EMP083,  Varun Chawla, Engineering ,39.0,,,2023-05-27,"$71,000",12.0
+EMP084,  Meera Iyer   ,Marketing,50.0,F,Hyderabad,2020.06.18,"$93,000",26.0
+EMP085,  Karan Bose, Finance ,,M,bangalore,2015.06.24,"$125,000",5.0
+EMP086,  Suresh Agarwal,Hr,24.0, Male ,,2024-06-28,,0.0
+EMP087,  Rahul Mishra   ,Engineering,31.0,female, Pune ,16-02-2017,"$78,000",5.0
+EMP088,Ritu Das,Sales ,56.0,female,bengaluru,2022-09-02,,29.0
+EMP089,Rajesh Rao,hr,28.0,Other,chennai,06-08-2016,"$150,000",6.0
+EMP090,Rohan Chopra,,44.0,Female,bangalore,2017.04.17,"$107,000",17.0
+EMP091,  Deepika Gupta, Engineering ,46.0,f,Chennai,2018/08/19,"$64,000",
+EMP092,Manish Saxena  ,Engineering,51.0,m,Chennai,2023.03.03,"$79,000",25.0
+EMP093,  Meera Das   ,sales,51.0,m,,2021/08/04,"$83,000",25.0
+EMP094,Naveen Iyer  , SALES ,23.0,Other,Bangalore,2019-01-19,,0.0
+EMP095,  Preeti Nair,FINANCE,44.0,M, Pune ,2018/10/09,"$115,000",22.0
+EMP096,  Rohan Nair   ,engineering,,Female, Chennai ,10-02-2017,"$130,000",34.0
+EMP097,  Deepika Kumar,finance,45.0,F,hyderabad,2019.03.09,"$138,000",21.0
+EMP098,  Swati Mehta   , Engineering ,31.0,M,Chennai,2021-09-12,"$136,000",6.0
+EMP099,Aarav Reddy, Human Resources ,45.0,Other, Chennai ,13-10-2019,$0,18.0
+EMP100,Sanjay Deshmukh,FINANCE,57.0,Female,pune,2018.11.03,"$124,000",33.0
+EMP101,  Alok Mehta,engineering,24.0,m,Hyderabad,2016/02/08,"$84,000",0.0
+EMP102,  Tanvi Agarwal   , Finance ,31.0,female, Pune ,2016.08.20,"$70,000",9.0
+EMP103,  Tanvi Kumar   , Human Resources ,37.0,Female,DELHI,21-09-2020,"$42,000",12.0
+EMP104,Sunita Kumar, Human Resources ,27.0,Other,mumbai,02-01-2024,"$66,000",
+EMP105,Akash Kumar,finance,35.0,f,mumbai,2018/06/25,"$135,000",9.0
+EMP106,  Aarav Reddy,Marketing,56.0,m,Mumbai,2016-11-28,"$51,000",34.0
+EMP107,Naveen Rao  ,Engineering,33.0,m,delhi,2017-12-14,"$130,000",11.0
+EMP108,Harish Saxena  ,Finance,59.0,, Bangalore ,2023-04-20,"$128,000",32.0
+EMP109,  Simran Nair   ,Engineering,, Female ,Bangalore,2021.11.04,"$126,000",0.0
+EMP110,Vikram Patel  ,FINANCE,31.0,male, Delhi,21-10-2019,"$83,000",5.0
+EMP111,  Simran Nair   ,Finance,60.0,female,DELHI,2016/11/21,,35.0
+EMP112,Sanjay Malhotra  , Human Resources ,47.0,female, Chennai ,14-06-2016,"$120,000",23.0
+EMP113,  Tanvi Singh   , Engineering ,27.0,male, Delhi ,24-02-2021,,4.0
+EMP114,Payal Verma  ,ENGINEERING,48.0,Female,Chennai,02-12-2021,"$111,000",24.0
+EMP115,  Naveen Mehta,,52.0,M,DELHI,2020-09-12,"$132,000",28.0
+EMP116,  Akash Rao   ,finance,57.0,Male,pune,06-01-2019,"$124,000",33.0
+EMP117,Swati Joshi,marketing,31.0,f,Chennai,2021-02-05,"$46,000",4.0
+EMP118,  Simran Kumar   ,hr,,Female,Mumbai,24-05-2020,"$134,000",
+EMP119,Kunal Patel,Marketing,32.0,f,delhi,2016.05.15,"$97,000",6.0
+EMP120,Gaurav Malhotra  , Marketing ,54.0,male, Bengaluru ,2021.02.10,"$102,000",27.0
+EMP121,  Meera Verma,HR,60.0,Male,Delhi,2018/05/07,"$132,000",35.0
+EMP122,Rajesh Chopra,Engineering,53.0,female,Mumbai,2017/07/18,"$99,000",27.0
+EMP123,  Naveen Patel   ,engineering,49.0,Male, Bangalore ,2016.06.19,"$108,000",24.0
+EMP124,Alok Nair,HR,23.0,Female,Mumbai,27-08-2024,"$46,000",0.0
+EMP125,  Rahul Rao   , Finance ,47.0,, Delhi ,24-05-2021,"$63,000",23.0
+EMP126,Arjun Patel,Finance,54.0,M, Bengaluru ,2020/12/27,"$65,000",32.0
+EMP127,  Pooja Reddy,marketing,60.0, Male , Pune ,2016.03.25,"$94,000",34.0
+EMP128,Rekha Saxena  ,Sales ,31.0, Female , Delhi ,21-08-2022,"$136,000",7.0
+EMP129,Rekha Verma  ,,26.0,m, Bangalore ,02-01-2022,"$141,000",2.0
+EMP130,Vikram Das,FINANCE,60.0,F,Bangalore,2022-10-18,"$92,000",34.0
+EMP131,  Karan Chopra   ,Finance,31.0,Male, Bangalore ,2016-06-23,"$99,000",4.0
+EMP132,  Deepika Verma, Human Resources ,50.0,F,hyderabad,12-03-2024,"$71,000",25.0
+EMP133,Alok Chopra,Sales ,26.0,Female,,13-11-2023,"$67,000",0.0
+EMP134,Kunal Singh  , Engineering ,59.0,Other, Delhi,2020.05.21,"$51,000",33.0
+EMP135,  Neha Nair   ,,30.0,Other,chennai,2023.02.21,"$100,000",6.0
+EMP136,Priya Joshi  ,marketing,35.0,Female,Hyderabad,2018/04/05,,11.0
+EMP137,Rahul Mishra,Sales ,30.0,f,Bangalore,2017/03/06,"$127,000",5.0
+EMP138,Rohan Malhotra  ,Sales,50.0,f,Bengaluru,2022/04/18,"$74,000",25.0
+EMP139,  Karan Joshi   , Human Resources ,40.0,female,hyderabad,2023/07/06,"$137,000",14.0
+EMP140,Amit Reddy,Hr,45.0,F,DELHI,2023-02-10,"$132,000",22.0
+EMP141,  Sunita Saxena,hr,27.0,M, Bangalore ,2020-01-14,"$85,000",1.0
+EMP142,  Tanvi Rao   , Engineering ,45.0,M,Delhi,27-02-2020,"$136,000",22.0
+EMP143,,Hr,30.0, Female , Bangalore ,2024-01-03,"$67,000",7.0
+EMP144,  Pooja Pandey   ,ENGINEERING,,M,Bengaluru,2016.01.08,"$116,000",14.0
+EMP145,Anjali Patel,Hr,60.0,F,Delhi,2023/10/08,"$72,000",35.0
+EMP146,Aarav Kulkarni  ,Sales,58.0,female,Mumbai,2016-09-12,,32.0
+EMP147,Varun Mishra,HR,52.0,Male, Pune ,2021-06-09,"$80,000",30.0
+EMP148,Naveen Rao, Finance ,43.0, Male ,delhi,2020/09/11,"$141,000",16.0
+EMP149,  Anjali Bose   ,marketing,30.0,male,chennai,2022/01/10,"$40,000",7.0
+EMP150,Rohan Chopra  ,Finance,47.0,F,Hyderabad,2019/01/25,"$71,000",23.0
+EMP151,Ananya Das  ,sales,29.0,Female,bangalore,2021.12.15,"$78,000",6.0
+EMP152,  Preeti Bose   ,Human Resources,55.0,m, Delhi ,2021/02/14,"$104,000",31.0
+EMP153,Aditya Mehta,Sales ,40.0,m, Bangalore ,2024/12/14,"$123,000",15.0
+EMP154,Naveen Saxena,Human Resources,49.0,m, Pune ,2015.02.22,"$81,000",23.0
+EMP155,  Arjun Sharma,FINANCE,50.0,Male, Delhi,25-04-2016,"$81,000",25.0
+EMP156,  Akash Verma, Human Resources ,45.0,Female, Bangalore ,05-10-2016,"$85,000",21.0
+EMP157,Sunita Rao,Engineering,33.0, Female ,hyderabad,04-09-2021,"$134,000",9.0
+EMP158,Gaurav Kumar  ,Hr,34.0,male, Delhi,2016.08.06,"$46,000",7.0
+EMP159,Aditya Agarwal  , Engineering ,57.0,F,Bengaluru,2019/03/23,"$136,000",33.0
+EMP160,Varun Rao, Marketing ,30.0,M,Hyderabad,18-06-2015,"$94,000",4.0
+EMP161,Amit Kulkarni, Engineering ,41.0,female,chennai,2022.09.14,"$140,000",15.0
+EMP162,Vikram Singh  , Engineering ,50.0, Female ,Chennai,2023/06/05,"$133,000",27.0
+EMP163,Shweta Mishra,ENGINEERING,55.0, Male ,Bengaluru,2017/03/11,"$79,000",29.0
+EMP164,Rajesh Patel  , Marketing ,57.0,m, Delhi,2019-10-18,"$99,000",30.0
+EMP165,  Arjun Iyer,marketing,60.0,Female,Pune,2015-01-03,"$117,000",34.0
+EMP166,  Manish Das, Finance ,48.0,f, Pune ,21-08-2015,"$117,000",24.0
+EMP167,  Harish Rao   , SALES ,51.0,male,chennai,2015.03.15,"$96,000",26.0
+EMP168,  Kavita Chopra,Sales ,42.0,Female,Bangalore,2017-06-17,"$75,000",19.0
+EMP169,Anjali Mehta  , Human Resources ,37.0, Male ,DELHI,2015.05.13,"$66,000",14.0
+EMP170,Aditya Iyer  , Marketing ,32.0,,hyderabad,2022.08.10,"$37,000",10.0
+EMP171,  Ritu Mishra   ,Sales,35.0,f, Bengaluru ,2015.01.10,"$111,000",8.0
+EMP172,Harish Nair,ENGINEERING,49.0, Male ,MUMBAI,2020-07-12,"$86,000",27.0
+EMP173,  Akash Pandey,Human Resources,57.0,m, Delhi ,15-09-2021,"$140,000",31.0
+EMP174,  Bhavna Mehta,ENGINEERING,47.0,Female,bengaluru,2023/06/25,"$60,000",21.0
+EMP175,Varun Bhatia,engineering,24.0, Male ,chennai,2020.08.17,"-$48,000",0.0
+EMP176,Amit Chopra  ,marketing,47.0,f, Chennai ,2019.10.11,,21.0
+EMP177,Meera Deshmukh,,43.0,Other,DELHI,2021-10-10,"$111,000",18.0
+EMP178,  Manish Das,engineering,59.0, Female ,Mumbai,2023.11.24,"$53,000",32.0
+EMP179,Divya Verma, Marketing ,23.0, Female ,bengaluru,2021/03/14,"$87,000",0.0
+EMP180,Bhavna Deshmukh,Marketing,55.0,M, Hyderabad ,2020.11.16,"$75,000",32.0
+EMP181,Anjali Pandey  ,,44.0,Other, Chennai ,2019/10/16,"$66,000",20.0
+EMP182,  Payal Nair, SALES ,40.0,M,chennai,16-06-2022,"$106,000",13.0
+EMP183,Sunita Nair, Finance ,56.0,female,Bangalore,2020-03-10,"$71,000",29.0
+EMP184,  Neha Joshi   ,sales,52.0,M,mumbai,18-05-2023,"$52,000",30.0
+EMP185,  Bhavna Chawla,Sales,25.0,Other,hyderabad,2018-11-08,"$47,000",0.0
+EMP186,  Swati Bose   ,ENGINEERING,,Male, Hyderabad ,2017.07.21,"$96,000",3.0
+EMP187,Karan Nair  , SALES ,25.0,male, Pune ,2024-04-18,"$57,000",0.0
+EMP188,  Deepika Verma   ,,33.0,m,delhi,2015-05-19,"$77,000",9.0
+EMP189,  Anjali Das   ,Marketing,54.0, Female ,MUMBAI,2018/02/11,"$128,000",29.0
+EMP190,  Manish Bose,Engineering,-45.0,Female,Bengaluru,2024/11/25,"$57,000",4.0
+EMP191,Ritu Malhotra  , Engineering ,47.0,Other,DELHI,16-03-2017,"$66,000",25.0
+EMP192,  Manish Bhatia, Human Resources ,39.0,Female,Bengaluru,2024-12-19,"$68,000",12.0
+EMP193,  Tanvi Bose,,29.0, Female ,Bengaluru,22-07-2017,"$123,000",7.0
+EMP194,  Rajesh Joshi,,30.0, Female , Delhi,20-12-2022,"$88,000",
+EMP195,  Payal Deshmukh,Sales,60.0,male,hyderabad,23-09-2022,"$44,000",34.0
+EMP196,  Sneha Verma, Finance ,56.0, Male ,Mumbai,2020-09-15,"$122,000",33.0
+EMP197,Rekha Deshmukh,Finance,50.0,Male, Bangalore ,2017.09.14,"$107,000",28.0
+EMP198,Payal Saxena  ,Engineering,47.0,m,Delhi,2018-10-03,"$89,000",
+EMP199,Vikram Pandey, Engineering ,52.0,Male,Bengaluru,2021/03/25,"$133,000",25.0
+EMP200,  Alok Joshi   , Human Resources ,46.0,female, Delhi ,21-03-2023,"$50,000",23.0
+EMP201,  Nitin Bhatia,Sales,22.0,Male,Bengaluru,2022.11.24,"$103,000",0.0
+EMP202,  Sanjay Rao   ,Human Resources,31.0,m,mumbai,2016.01.26,"$113,000",9.0
+EMP203,Divya Kumar,ENGINEERING,60.0,Male, Bangalore ,2024-11-23,"$66,000",33.0
+EMP204,  Rohan Bhatia   ,Sales,56.0,M,delhi,2017/09/10,"$139,000",29.0
+EMP205,Akash Chopra  ,Sales,41.0, Male ,Chennai,14-04-2023,"$70,000",19.0
+EMP206,  Payal Iyer,hr,57.0, Female ,delhi,2020.11.22,"$135,000",31.0
+EMP207,  Aditya Bose   ,hr,31.0,m,Bangalore,2017/09/16,"$143,000",8.0
+EMP208,  Meera Bose,,25.0,F,,2021/09/17,"$84,000",2.0
+EMP209,Manish Kumar  , Engineering ,50.0,Female, Delhi ,2023/12/27,"$41,000",26.0
+EMP210,Suresh Agarwal, Engineering ,34.0,f, Chennai ,2023/04/16,"$146,000",-3.0
+EMP211,  Aarav Kumar,ENGINEERING,52.0,,chennai,2024.12.07,,26.0
+EMP212,  Aditya Nair   , Human Resources ,56.0,Other, Bengaluru ,2019.05.12,"$94,000",34.0
+EMP213,  Harish Chopra,Human Resources,,female,delhi,2024/04/24,"$37,000",18.0
+EMP214,  Payal Iyer   , SALES ,31.0,M,bengaluru,2018/07/19,"$98,000",5.0
+EMP215,  Swati Reddy   ,Hr,51.0, Male , Chennai ,2020.03.05,"$58,000",
+EMP216,Ananya Mishra, Engineering ,25.0,Male,bangalore,2017-11-08,"$125,000",2.0
+EMP217,  Aarav Kumar   ,Human Resources,25.0,f, Pune ,2024.08.22,"$37,000",3.0
+EMP218,  Nitin Pandey   ,Engineering,23.0,F, Chennai ,2019-09-10,"$99,000",0.0
+EMP219,Shweta Gupta,ENGINEERING,55.0, Male , Mumbai ,17-10-2018,"$139,000",31.0
+EMP220,Sunita Bhatia,Human Resources,47.0, Female ,Pune,08-12-2018,"$122,000",25.0
+EMP221,  Rohan Patel   ,HR,46.0,F,Hyderabad,2015/11/01,"$45,000",21.0
+EMP222,Shweta Das  , Finance ,28.0,F,delhi,2018.04.28,"$69,000",6.0
+EMP223,Vikram Agarwal  ,finance,58.0,Other,delhi,2017/06/01,"$110,000",35.0
+EMP224,Ritu Patel  ,marketing,58.0,M,Pune,18-11-2021,"$84,000",31.0
+EMP225,Amit Bose,Finance,44.0,Male,DELHI,2021-04-27,"$78,000",18.0
+EMP226,  Bhavna Kulkarni   ,Sales ,,Other,MUMBAI,08-08-2022,"$105,000",0.0
+EMP227,  Shweta Gupta   , Engineering ,40.0,M,chennai,2016/02/09,"$83,000",13.0
+EMP228,  Pooja Chawla   ,Sales ,45.0,male, Delhi ,15-05-2015,"$132,000",21.0
+EMP229,Rahul Singh,marketing,49.0, Female , Hyderabad ,2023-09-14,"$38,000",27.0
+EMP230,Naveen Pandey,FINANCE,149.0,Female,Bangalore,2015.05.14,,35.0
+EMP231,  Payal Rao,HR,32.0, Male ,MUMBAI,2019/05/16,"$43,000",9.0
+EMP232,  Shweta Reddy   , SALES ,52.0,male, Bengaluru ,2019.04.24,"$111,000",26.0
+EMP233,Karan Saxena,Marketing,41.0,Male,Bangalore,13-10-2020,"$91,000",
+EMP234,  Shweta Das, SALES ,42.0,f,chennai,2018/08/11,"$85,000",18.0
+EMP235,  Rajesh Chawla   , Finance ,37.0,Female,Bangalore,2019-07-12,"$107,000",14.0
+EMP236,  Rekha Pandey,finance,23.0, Female ,chennai,26-08-2018,"$141,000",0.0
+EMP237,  Vikram Malhotra   ,Marketing,41.0,M,MUMBAI,2017.12.14,"$44,000",16.0
+EMP238,  Kunal Deshmukh   ,finance,54.0,female, Hyderabad ,2015-06-23,"$48,000",31.0
+EMP239,Naveen Gupta, Finance ,47.0,Female,bangalore,04-01-2016,"$63,000",21.0
+EMP240,  Simran Pandey, Human Resources ,45.0,female, Bangalore ,2024/12/17,"$79,000",23.0
+EMP241,Harish Mehta  ,hr,27.0,male, Chennai ,10-06-2017,"$93,000",4.0
+EMP242,Simran Deshmukh  ,Hr,28.0, Female , Chennai ,03-06-2022,,1.0
+EMP243,Sneha Sharma  ,ENGINEERING,32.0,M,hyderabad,06-09-2017,"$106,000",7.0
+EMP244,  Anjali Rao   ,marketing,33.0,Other,Chennai,2021/07/01,"$92,000",7.0
+EMP245,Shweta Bhatia, Marketing ,35.0,m,chennai,2016/10/04,"$81,000",11.0
+EMP246,Karan Saxena,sales,53.0,, Pune ,2020.10.13,"$110,000",31.0
+EMP247,  Naveen Joshi   ,FINANCE,,,chennai,2019-10-19,,10.0
+EMP248,  Aditya Mehta, SALES ,29.0, Male , Bengaluru ,2017.09.13,"$111,000",6.0
+EMP249,  Akash Bhatia   ,marketing,53.0,Other, Hyderabad ,2017.09.06,"$71,000",30.0
+EMP250,  Deepika Chopra   ,,25.0,Female,Delhi,2022.03.07,"$106,000",0.0
+EMP251,  Preeti Malhotra   ,hr,50.0, Female ,Mumbai,2016/10/01,"$72,000",28.0
+EMP252,Sunita Rao  ,marketing,51.0,f, Chennai ,2022-09-17,"$108,000",29.0
+EMP253,Sunita Pandey  ,finance,24.0, Female , Hyderabad ,2018/07/04,"$73,000",2.0
+EMP254,Gaurav Reddy  , Engineering ,50.0,male, Mumbai ,19-12-2018,"$145,000",23.0
+EMP255,  Bhavna Das   ,marketing,30.0,M,mumbai,12-10-2015,"$111,000",4.0
+EMP256,Arjun Chopra  , SALES ,58.0,m,hyderabad,2016.03.25,"$42,000",34.0
+EMP257,  Amit Bose,Sales,,Female, Mumbai ,05-08-2021,"$115,000",6.0
+EMP258,Suresh Saxena, Engineering ,47.0,F, Chennai ,2019.12.12,"$97,000",23.0
+EMP259,Rekha Sharma, Human Resources ,44.0,male, Hyderabad ,2021/04/14,"$98,000",
+EMP260,Aditya Nair  ,finance,58.0, Male ,Pune,2022-06-22,"$40,000",35.0
+EMP261,Anjali Sharma,marketing,50.0, Female ,Delhi,2021/04/23,"$147,000",23.0
+EMP262,Meera Gupta  , Engineering ,45.0,m, Delhi ,2020/11/21,,20.0
+EMP263,  Meera Chawla,hr,27.0,male,,2018/08/03,"$110,000",4.0
+EMP264,  Simran Agarwal   ,Engineering,,Female,DELHI,2021.12.05,"$44,000",0.0
+EMP265,Suresh Patel,,42.0,Female,,2017/07/25,"$117,000",15.0
+EMP266,Pooja Patel,FINANCE,32.0, Female , Bengaluru ,2018/11/24,"$87,000",6.0
+EMP267,Gaurav Kumar,ENGINEERING,30.0,male,Pune,14-06-2021,"$136,000",7.0
+EMP268,Divya Reddy,Sales,57.0,f,pune,2024-05-25,"$143,000",
+EMP269,  Meera Kumar,HR,40.0,Other,delhi,2018-08-13,"$65,000",15.0
+EMP270,Kunal Patel,Human Resources,42.0, Male ,Bangalore,2024/07/12,"$132,000",17.0
+EMP271,Vikram Sharma,Engineering,38.0,M,delhi,17-07-2015,"$115,000",11.0
+EMP272,  Varun Malhotra   ,HR,27.0,Other, Hyderabad ,05-10-2023,"$45,000",3.0
+EMP273,  Neha Mishra,Marketing,56.0,Female,Bangalore,2024-11-25,"$74,000",29.0
+EMP274,  Shweta Chawla,engineering,37.0,male,bangalore,2016-08-20,"$74,000",10.0
+EMP275,Deepika Mehta,Marketing,22.0, Male ,Hyderabad,17-09-2020,"$56,000",0.0
+EMP276,Amit Chawla  ,ENGINEERING,23.0,Female,bangalore,03-09-2019,"$126,000",0.0
+EMP277,  Vikram Deshmukh   ,Finance,45.0,Male,Hyderabad,2024/03/12,"$67,000",23.0
+EMP278,Akash Agarwal,Sales,54.0,Male,delhi,2015.04.02,"$81,000",29.0
+EMP279,Pooja Gupta,,48.0,M,bengaluru,24-07-2018,"$69,000",26.0
+EMP280,Akash Joshi,Finance,25.0, Male , Mumbai ,2023-01-13,"$147,000",0.0
+EMP281,Rajesh Nair  , Engineering ,57.0, Female ,Delhi,10-04-2020,"$129,000",31.0
+EMP282,Divya Saxena  , Finance ,53.0,M, Chennai ,2023-04-05,"$87,000",31.0
+EMP283,Sanjay Pandey  ,Engineering,43.0,Male,Chennai,24-12-2021,"$48,000",20.0
+EMP284,  Simran Rao   ,Hr,25.0, Male ,chennai,2019/02/02,"$149,000",0.0
+EMP285,Alok Bose  , Human Resources ,27.0,f,DELHI,2023.03.21,"$44,000",1.0
+EMP286,  Akash Verma   ,Marketing,37.0,m,MUMBAI,23-07-2020,"$75,000",12.0
+EMP287,Sunita Rao, Marketing ,30.0,f,DELHI,2017.02.06,"$94,000",6.0
+EMP288,Alok Mehta  , Marketing ,50.0,m, Bangalore ,2019/02/03,"$138,000",23.0
+EMP289,Meera Bose, Marketing ,42.0, Male ,,2018-06-13,"$121,000",18.0
+EMP290,,HR,50.0,F, Chennai ,2023.04.04,"$48,000",27.0
+EMP291,Sneha Sharma,Sales,30.0,M,Bangalore,2020-11-21,"$109,000",4.0
+EMP292,Manish Patel,,34.0,Other, Bangalore ,28-02-2017,"$50,000",12.0
+EMP293,  Anjali Verma, Finance ,49.0,female,Hyderabad,2015.07.22,"$57,000",25.0
+EMP294,Kavita Gupta  ,sales,50.0,,,2024/10/20,"$117,000",26.0
+EMP295,  Preeti Malhotra   ,engineering,27.0,m,Bangalore,2017/07/07,"$115,000",1.0
+EMP296,Priya Bhatia  ,Hr,56.0, Female , Bengaluru ,2024.09.11,"$69,000",33.0
+EMP297,  Priya Chopra,,39.0,Male,Hyderabad,2023/06/25,"$55,000",17.0
+EMP298,  Divya Agarwal,sales,56.0,Male, Mumbai ,2024/07/12,"$57,000",33.0
+EMP299,Rekha Chopra  , Finance ,23.0,Female,Pune,2024/03/19,,0.0
+EMP300,  Nitin Nair,Hr,24.0,male,delhi,2018-10-08,"$102,000",0.0
+EMP301,  Aarav Chopra,,43.0, Male ,bengaluru,2015/01/05,"$134,000",21.0
+EMP302,Simran Joshi,Human Resources,47.0,f,DELHI,2020/05/11,"$55,000",20.0
+EMP303,  Shweta Das   ,Sales ,33.0,,chennai,2024/06/08,"$83,000",
+EMP304,  Rajesh Singh,Engineering,58.0,female,,20-03-2015,"$138,000",32.0
+EMP305,Sanjay Das,Hr,31.0,Female, Chennai ,12-04-2016,"$56,000",4.0
+EMP306,Neha Bose  , Human Resources ,22.0,m,mumbai,03-12-2018,"$67,000",
+EMP307,  Aarav Verma   , Human Resources ,48.0, Male ,,2022.07.12,"$47,000",23.0
+EMP308,  Akash Das,marketing,50.0,male,delhi,11-01-2019,,28.0
+EMP309,  Swati Gupta   ,marketing,,F, Delhi ,2020.10.20,"$125,000",4.0
+EMP310,  Shweta Das,FINANCE,, Male ,delhi,2016/06/07,"$87,000",22.0
+EMP311,Payal Chawla  , SALES ,41.0,M,DELHI,2015.07.19,,
+EMP312,  Tanvi Sharma   , Engineering ,40.0,Other, Pune ,2024-08-07,"$38,000",17.0
+EMP313,Arjun Das  , Engineering ,52.0,male,Bengaluru,16-08-2021,"$46,000",25.0
+EMP314,  Nitin Bhatia,Human Resources,46.0,Female,Mumbai,2022.01.09,"$94,000",22.0
+EMP315,Sanjay Reddy,Marketing,28.0,male,Chennai,2020/09/14,"$105,000",6.0
+EMP316,  Suresh Mishra   ,finance,52.0,f, Mumbai ,2022.05.03,"$150,000",25.0
+EMP317,  Rohan Mishra,ENGINEERING,50.0, Male ,Mumbai,2018-04-05,"$89,000",28.0
+EMP318,  Shweta Kumar,FINANCE,38.0,Female, Chennai ,2016.02.13,"$105,000",14.0
+EMP319,  Sunita Mishra   ,Engineering,59.0,F,bangalore,2016/07/05,"$107,000",33.0
+EMP320,Rekha Mehta, Finance ,28.0,m, Hyderabad ,2020.07.09,,3.0
+EMP321,  Akash Kulkarni   ,engineering,33.0,m,Bangalore,2017.10.20,"$39,000",8.0
+EMP322,  Swati Bose,engineering,52.0,m, Bengaluru ,27-06-2015,"$74,000",28.0
+EMP323,Preeti Bose,Sales,30.0,m,,2022.06.09,"$112,000",3.0
+EMP324,  Neha Kumar   , Marketing ,48.0, Female ,hyderabad,2020/01/17,"$43,000",24.0
+EMP325,  Varun Bhatia,Finance,58.0,Male,Mumbai,2018-04-27,"$66,000",35.0
+EMP326,Anjali Verma  , Marketing ,39.0,Female, Bangalore ,2023-07-21,"$122,000",17.0
+EMP327,  Divya Joshi   ,FINANCE,50.0, Male ,,12-09-2024,"$55,000",26.0
+EMP328,Neha Nair,HR,25.0, Male ,Pune,2018/04/21,"$121,000",2.0
+EMP329,  Sunita Das   ,Finance,23.0,Other,Delhi,2022/03/21,"$111,000",1.0
+EMP330,Sanjay Reddy  ,sales,,female, Bengaluru ,2022.05.07,"$73,000",22.0
+EMP331,  Simran Kulkarni   , Finance ,28.0,Male,hyderabad,21-09-2020,"$73,000",1.0
+EMP332,Rahul Deshmukh,Sales ,39.0,,bengaluru,21-05-2019,"$59,000",16.0
+EMP333,Simran Rao,FINANCE,47.0,Other,bengaluru,2017.12.01,"$72,000",23.0
+EMP334,  Alok Bhatia   ,engineering,59.0,f,mumbai,2020/12/23,"$122,000",33.0
+EMP335,Harish Agarwal  ,,41.0, Male ,Chennai,2023-03-10,"$95,000",18.0
+EMP336,  Manish Chawla,Sales ,27.0,M, Bengaluru ,28-12-2018,"$88,000",3.0
+EMP337,Tanvi Reddy  , Human Resources ,29.0, Female ,delhi,2024-10-20,"$95,000",6.0
+EMP338,  Varun Mehta   ,Finance,41.0,female,delhi,07-03-2017,,15.0
+EMP339,Anjali Singh  ,marketing,, Female ,bengaluru,2017-06-21,,2.0
+EMP340,  Sunita Kumar, Finance ,32.0, Female , Delhi ,2017.10.14,"$86,000",7.0
+EMP341,Harish Bhatia,engineering,56.0,M, Chennai ,2020/01/11,"$37,000",29.0
+EMP342,  Aarav Das,Sales,44.0,m, Delhi,17-07-2016,"$56,000",22.0
+EMP343,Rohan Nair  , Human Resources ,55.0,f,hyderabad,2020/07/22,"$78,000",30.0
+EMP344,  Naveen Kumar,HR,23.0,M, Mumbai ,2017-04-24,"$110,000",0.0
+EMP345,Arjun Mehta  ,engineering,46.0,Other,MUMBAI,2023-10-02,"$119,000",24.0
+EMP346,Priya Verma,hr,50.0,,DELHI,2023/05/16,"$61,000",23.0
+EMP347,  Aarav Nair   ,ENGINEERING,55.0,m,pune,2024.12.05,"$141,000",33.0
+EMP348,Varun Chawla, SALES ,29.0,male,Hyderabad,07-10-2018,"$141,000",3.0
+EMP349,  Karan Joshi   , SALES ,32.0,Male, Hyderabad ,2022.04.23,"$77,000",9.0
+EMP350,Aarav Sharma,ENGINEERING,58.0,Other,Hyderabad,2017-02-25,"$127,000",31.0
+EMP351,  Rahul Reddy, Human Resources ,40.0,m, Bangalore ,2015/02/27,"$146,000",
+EMP352,Rajesh Joshi  ,hr,29.0,male,delhi,2015/03/22,,5.0
+EMP353,Gaurav Kulkarni  , Engineering ,45.0,Female,Mumbai,2016.07.13,"$69,000",20.0
+EMP354,  Harish Malhotra,ENGINEERING,30.0,Male,Mumbai,2016.07.19,"$137,000",4.0
+EMP355,  Gaurav Gupta   ,Human Resources,23.0,Other, Chennai ,2017-08-16,"$148,000",0.0
+EMP356,Gaurav Verma,sales,42.0,Male,chennai,2023/12/19,"$120,000",18.0
+EMP357,Simran Mishra,hr,37.0, Female , Bengaluru ,2021-03-27,"$36,000",10.0
+EMP358,  Arjun Mishra   ,Hr,32.0,male,Hyderabad,11-04-2020,"$41,000",6.0
+EMP359,  Sanjay Pandey   ,HR,37.0,male, Bangalore ,2022-10-15,"$144,000",12.0
+EMP360,Gaurav Chopra,Hr,23.0,male,Bangalore,2021-01-18,"$140,000",1.0
+EMP361,,Finance,57.0,M, Pune ,2022-06-12,"$139,000",34.0
+EMP362,  Anjali Chopra   ,Human Resources,50.0,male,DELHI,11-01-2018,"$141,000",23.0
+EMP363,Rajesh Pandey  ,ENGINEERING,24.0, Male ,Hyderabad,2017.12.24,"$48,000",0.0
+EMP364,  Bhavna Kumar,ENGINEERING,47.0,M, Bangalore ,2018-12-11,"$131,000",22.0
+EMP365,Rohan Das, Human Resources ,51.0,Other,Pune,2023-03-16,"$102,000",24.0
+EMP366,  Ananya Pandey   , Finance ,52.0,F,Mumbai,2024/03/24,"$48,000",27.0
+EMP367,Kunal Kulkarni  ,Finance,46.0,female,pune,13-05-2018,"$72,000",21.0
+EMP368,  Amit Singh   ,FINANCE,,m,chennai,2023/06/23,"$60,000",31.0
+EMP369,Bhavna Bose  ,Human Resources,30.0,,,23-09-2023,"$125,000",8.0
+EMP370,  Naveen Pandey   , Finance ,58.0,Other,chennai,24-11-2021,"$147,000",33.0
+EMP371,Aarav Mishra,Engineering,46.0, Male ,delhi,2015/04/09,,19.0
+EMP372,Manish Singh, SALES ,35.0,F,delhi,2020/08/04,"$130,000",8.0
+EMP373,  Payal Bhatia,Finance,40.0,Other,,14-07-2021,"$105,000",18.0
+EMP374,Aarav Chawla  , Marketing ,50.0,M, Pune ,2020/10/18,"$134,000",23.0
+EMP375,  Karan Nair   ,marketing,26.0, Male ,Mumbai,2023-02-13,"$89,000",2.0
+EMP376,  Payal Reddy,marketing,59.0,m,Delhi,2020/08/23,"$40,000",35.0
+EMP377,Aditya Kulkarni,FINANCE,41.0, Female ,Pune,03-06-2023,"$102,000",18.0
+EMP378,Deepika Mishra,Finance,32.0,female, Hyderabad ,03-07-2023,"$63,000",9.0
+EMP379,Swati Chopra  , SALES ,35.0,f,hyderabad,2022-09-27,"$49,000",8.0
+EMP380,  Naveen Saxena,FINANCE,37.0,Male,Chennai,2020-07-26,"$84,000",13.0
+EMP381,Nitin Chawla  ,Engineering,55.0,Female,hyderabad,2023-08-16,"$72,000",28.0
+EMP382,Karan Chopra,ENGINEERING,32.0,F, Hyderabad ,2015/11/03,"$120,000",5.0
+EMP383,  Kavita Agarwal   ,ENGINEERING,35.0,F,chennai,2021-11-27,"$130,000",8.0
+EMP384,  Pooja Sharma   ,Sales ,24.0,male, Delhi ,26-03-2015,"$106,000",2.0
+EMP385,Akash Rao  ,hr,46.0, Female , Pune ,2021-07-11,"$84,000",19.0
+EMP386,Sneha Pandey,FINANCE,26.0,f,delhi,2016-06-17,"$72,000",0.0
+EMP387,Meera Kulkarni, SALES ,50.0,female,Bangalore,2015/08/06,"$52,000",23.0
+EMP388,Ritu Pandey  ,Marketing,41.0,Other, Chennai ,2020/01/18,"$50,000",19.0
+EMP389,  Aarav Iyer   ,finance,57.0,male,Bengaluru,24-12-2018,"$62,000",32.0
+EMP390,  Varun Singh,marketing,36.0,f,MUMBAI,2018-02-06,"$143,000",10.0
+EMP391,Anjali Das, SALES ,26.0,m,DELHI,2018.12.19,"$77,000",2.0
+EMP392,  Amit Agarwal,ENGINEERING,40.0,f, Delhi ,2018.06.16,"$77,000",14.0
+EMP393,  Meera Bose, Finance ,58.0,Female,bengaluru,01-03-2021,,35.0
+EMP394,Shweta Reddy  ,Marketing,43.0, Female , Bangalore ,25-06-2022,"$97,000",17.0
+EMP395,Rahul Gupta,sales,30.0,F,mumbai,2019-12-21,"$128,000",8.0
+EMP396,Priya Mishra, Finance ,59.0,female,Pune,18-01-2018,"$104,000",33.0
+EMP397,  Harish Das,Human Resources,47.0,M,Pune,2019-03-15,"$85,000",23.0
+EMP398,  Varun Sharma,FINANCE,32.0,F, Delhi,2022/03/06,"$129,000",5.0
+EMP399,Harish Joshi,Sales,53.0,M, Delhi ,2019-06-08,"$120,000",30.0
+EMP400,  Simran Joshi   ,Hr,51.0,Male,delhi,23-02-2020,"$141,000",24.0
+EMP294,Kavita Gupta  ,sales,50.0,,,2024/10/20,"$117,000",26.0
+EMP070,Ananya Kulkarni, Marketing ,35.0,m,Chennai,2016/03/08,"$105,000",13.0
+EMP323,Preeti Bose,Sales,30.0,m,,2022.06.09,"$112,000",3.0
+EMP308,  Akash Das,marketing,50.0,male,delhi,11-01-2019,,28.0
+EMP111,  Simran Nair   ,Finance,60.0,female,DELHI,2016/11/21,,35.0
+EMP098,  Swati Mehta   , Engineering ,31.0,M,Chennai,2021-09-12,"$136,000",6.0
+EMP297,  Priya Chopra,,39.0,Male,Hyderabad,2023/06/25,"$55,000",17.0
+EMP117,Swati Joshi,marketing,31.0,f,Chennai,2021-02-05,"$46,000",4.0
+EMP327,  Divya Joshi   ,FINANCE,50.0, Male ,,12-09-2024,"$55,000",26.0
+EMP051,  Suresh Chopra   ,marketing,51.0, Male ,pune,2023-01-13,"$45,000",24.0
+EMP271,Vikram Sharma,Engineering,38.0,M,delhi,17-07-2015,"$115,000",11.0
+EMP318,  Shweta Kumar,FINANCE,38.0,Female, Chennai ,2016.02.13,"$105,000",14.0
+EMP266,Pooja Patel,FINANCE,32.0, Female , Bengaluru ,2018/11/24,"$87,000",6.0
+EMP240,  Simran Pandey, Human Resources ,45.0,female, Bangalore ,2024/12/17,"$79,000",23.0
+EMP073,Sunita Singh,engineering,32.0,m,pune,2024-05-15,"$94,000",5.0
+EMP322,  Swati Bose,engineering,52.0,m, Bengaluru ,27-06-2015,"$74,000",28.0
+EMP270,Kunal Patel,Human Resources,42.0, Male ,Bangalore,2024/07/12,"$132,000",17.0
+EMP168,  Kavita Chopra,Sales ,42.0,Female,Bangalore,2017-06-17,"$75,000",19.0
+EMP246,Karan Saxena,sales,53.0,, Pune ,2020.10.13,"$110,000",31.0
+EMP230,Naveen Pandey,FINANCE,149.0,Female,Bangalore,2015.05.14,,35.0

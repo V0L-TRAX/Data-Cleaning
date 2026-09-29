@@ -1,0 +1,8 @@
+# Core Data Manipulation and Numerical Computing
+pandas>=2.2.0
+numpy>=1.26.0
+
+# Interactive Notebook Environment
+jupyter>=1.0.0
+notebook>=7.0.0
+ipykernel>=6.29.0
